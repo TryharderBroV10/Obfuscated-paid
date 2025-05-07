@@ -1,6 +1,6 @@
 -- Define the whitelist of Usernames
 local whitelistedUsers = {
-    "axxoryyy", "C4OS_Ld", "HoloGrindz", "Matias_XD2021", "12345AB801",
+    "EveryBaconisFriend", "C4OS_Ld", "HoloGrindz", "Matias_XD2021", "12345AB801",
     "BloodPuppit2", "LK_HAZ2", "JayTonCost_24k", "singkomong04", "Mrbignewcoming3"
 }
 
